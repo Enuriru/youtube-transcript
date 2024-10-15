@@ -25,11 +25,11 @@
   "files": [
     "dist/*"
   ],
-  "repository": "https://github.com/Kakulukian/youtube-transcript.git",
+  "repository": "https://github.com/enuriru/youtube-transcript.git#dev_node",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/Kakulukian/youtube-transcript",
+  "homepage": "https://github.com/enuriru/youtube-transcript.git#dev_node",
   "engines": {
     "node": ">=18.0.0"
   }
