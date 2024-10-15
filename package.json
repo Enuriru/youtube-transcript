@@ -25,11 +25,11 @@
   "files": [
     "dist/*"
   ],
-  "repository": "https://github.com/enuriru/youtube-transcript.git#dev_node",
+  "repository": "https://github.com/enuriru/youtube-transcript.git#personal",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/enuriru/youtube-transcript.git#dev_node",
+  "homepage": "https://github.com/enuriru/youtube-transcript.git#personal",
   "engines": {
     "node": ">=18.0.0"
   }
